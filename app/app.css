@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ActionBar {
+  background: linear-gradient(#ff3c00, lime);
+  color: white;
+}
